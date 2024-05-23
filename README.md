@@ -1,7 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+
+I am a backend and software engineer with a BSc Computer Science at [CUHK](https://www.cuhk.edu.hk). Special interests include AI & machine learning, fintech development and data analytics.  
+
+### You may want to 
+* Visit my [LinkedIn](https://www.linkedin.com/in/kasin-lee-0665ba200/)
+* Check out my public projects below 👇👇
 
 <!--
-**Kasin-ks/Kasin-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kasin/Kasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
