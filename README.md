@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a backend and software engineer with a BSc Computer Science at [CUHK](https://www.cuhk.edu.hk). Special interests include AI & machine learning, fintech development and data analytics.  
+I am a backend software engineer with a BSc Computer Science at [CUHK](https://www.cuhk.edu.hk). Special interests include AI & machine learning, fintech development and data analytics.  
 
 ### You may want to 
 * Visit my [LinkedIn](https://www.linkedin.com/in/kasin-lee-0665ba200/)
